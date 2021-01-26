@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A brief of the projects I did as a student at IITD
 nav: true
 ---
 
